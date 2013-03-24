@@ -1,0 +1,4 @@
+# Files and directories added here will be ignored
+*.pyc
+BOM
+*.db
