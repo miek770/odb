@@ -2,6 +2,7 @@
 #-*- coding: utf-8 -*-
 
 # Copyright 2011-2012 Michel Lavoie
+# miek770(at)gmail.com
 
 # This file is part of Odb.
 
